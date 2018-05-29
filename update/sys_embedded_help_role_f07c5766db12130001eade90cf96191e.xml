@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_219446_sample_ap.arch_app_user" name="x_219446_sample_ap.arch_app_user">787c5766db12130001eade90cf96191c</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-29 05:14:14</sys_created_on>
+        <sys_id>f07c5766db12130001eade90cf96191e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>787c5766db12130001eade90cf96191c</sys_name>
+        <sys_package display_value="Sample App" source="x_219446_sample_ap">fdba9f26db12130001eade90cf9619eb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sample App">fdba9f26db12130001eade90cf9619eb</sys_scope>
+        <sys_update_name>sys_embedded_help_role_f07c5766db12130001eade90cf96191e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-29 05:14:14</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

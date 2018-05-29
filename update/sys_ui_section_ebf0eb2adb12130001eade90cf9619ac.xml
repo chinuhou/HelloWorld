@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="ebf0eb2adb12130001eade90cf9619ac" sys_domain="global" table="x_219446_sample_ap_arch_app" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>appid</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-29 05:43:29</sys_created_on>
+            <sys_id>4123e7aadb12130001eade90cf96191a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_219446_sample_ap_arch_app" sys_domain="global" view="Default view">ebf0eb2adb12130001eade90cf9619ac</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-29 05:43:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>termid</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-29 05:43:29</sys_created_on>
+            <sys_id>c123e7aadb12130001eade90cf96191a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_219446_sample_ap_arch_app" sys_domain="global" view="Default view">ebf0eb2adb12130001eade90cf9619ac</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-29 05:43:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>appdiv</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-29 05:43:29</sys_created_on>
+            <sys_id>4523e7aadb12130001eade90cf96191a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_219446_sample_ap_arch_app" sys_domain="global" view="Default view">ebf0eb2adb12130001eade90cf9619ac</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-29 05:43:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>makercd</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-29 05:43:29</sys_created_on>
+            <sys_id>c523e7aadb12130001eade90cf96191a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_219446_sample_ap_arch_app" sys_domain="global" view="Default view">ebf0eb2adb12130001eade90cf9619ac</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-29 05:43:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>termdiv</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-29 05:43:29</sys_created_on>
+            <sys_id>4923e7aadb12130001eade90cf96191a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_219446_sample_ap_arch_app" sys_domain="global" view="Default view">ebf0eb2adb12130001eade90cf9619ac</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-29 05:43:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_219446_sample_ap_arch_app</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-29 05:34:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ebf0eb2adb12130001eade90cf9619ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_219446_sample_ap_arch_app</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Sample App" source="x_219446_sample_ap">fdba9f26db12130001eade90cf9619eb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Sample App">fdba9f26db12130001eade90cf9619eb</sys_scope>
+            <sys_update_name>sys_ui_section_ebf0eb2adb12130001eade90cf9619ac</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-29 05:34:05</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

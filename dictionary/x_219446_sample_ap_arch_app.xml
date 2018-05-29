@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Arch App" max_length="40" name="x_219446_sample_ap_arch_app" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" default="new" label="申込区分" max_length="40" name="appdiv" type="choice">
+            <choice>
+                <element label="新規" value="new"/>
+                <element label="機器追加" value="add"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="申込ID" max_length="40" name="appid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="メーカーコード" max_length="40" name="makercd" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="端末タイプ" max_length="40" name="termdiv" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="端末固有ID" max_length="40" name="termid" type="string"/>
+    </element>
+</database>
