@@ -11,5 +11,7 @@
         <element attributes="edge_encryption_enabled=true" label="メーカーコード" max_length="40" name="makercd" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="端末タイプ" max_length="40" name="termdiv" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="端末固有ID" max_length="40" name="termid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="代表TID" max_length="40" name="u_main_tid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="PID" max_length="40" name="u_pid" type="string"/>
     </element>
 </database>
